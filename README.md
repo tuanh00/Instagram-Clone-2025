@@ -30,6 +30,8 @@ This project is an Instagram-inspired app built with SwiftUI. It clones the Inst
 
 **[Watch the Video](https://vimeo.com/1054882878)**
 
+---
+
 ## Features
 
 - **User Authentication:** Login screens
@@ -48,22 +50,26 @@ This project is an Instagram-inspired app built with SwiftUI. It clones the Inst
 ### Login Screens
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/LoginScreen_1.png" alt="Login Screen 1" style="width:48%; margin-right: 2%;">
-  <img src="Images/LoginScreen_2.png" alt="Login Screen 2" style="width:48%;">
+  <img src="Images/LoginScreen_1.png" alt="Login Screen 1" style="width:300px;">
+  <img src="Images/LoginScreen_2.png" alt="Login Screen 2" style="width:300px;">
 </div>
 
 ### Additional Screens
 
 - **Chat Screen:**  
-  ![Chat Screen](Images/Chat.png)
+  <img src="Images/Chat.png" alt="Chat Screen" width="300" />
+
 - **Profile Screen:**  
-  ![Profile Screen](Images/Profile.png)
+  <img src="Images/Profile.png" alt="Profile Screen" width="300" />
+
 - **Reels Screen:**  
-  ![Reels Screen](Images/Reels.png)
+  <img src="Images/Reels.png" alt="Reels Screen" width="300" />
+
 - **Search Screen:**  
-  ![Search Screen](Images/Search.png)
+  <img src="Images/Search.png" alt="Search Screen" width="300" />
+
 - **Settings Screen:**  
-  ![Settings Screen](Images/Settings.png)
+  <img src="Images/Settings.png" alt="Settings Screen" width="300" />
 
 ---
 
@@ -73,6 +79,4 @@ This project is an Instagram-inspired app built with SwiftUI. It clones the Inst
 
 ````bash
 git clone https://github.com/yourusername/SwiftUI-Instagram-Clone.git
- ```
-
 ````
